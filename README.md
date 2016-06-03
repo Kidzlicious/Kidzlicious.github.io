@@ -2,4 +2,4 @@
 
 Landing for Kidzlicious Kitchen
 
-[kidzliciouskitchen.org](kidzliciouskitchen.org)
+[kidzliciouskitchen.org](http://kidzliciouskitchen.org)
