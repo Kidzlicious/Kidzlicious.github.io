@@ -338,7 +338,7 @@ ul.sub-menu {
 *******Footer******
 **************************/
 
-#footer {
+#contact {
   padding-bottom: 10px;
   background-image: url(../images/home/footer.png);
   background-repeat: repeat-x;
@@ -346,12 +346,12 @@ ul.sub-menu {
   background-size: contain;
 }
 
-#footer h1{
+#contact h1{
   margin-bottom: 65px;
   margin-top: 36px;
 }
 
-#footer .bottom-separator {
+#contact .bottom-separator {
   margin-bottom: 60px;
 }
 
