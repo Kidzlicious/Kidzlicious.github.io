@@ -2716,3 +2716,13 @@ span.stButton_gradient,
   background-color: #fbfafa;
   background-position: center;
 }
+
+#who {
+  margin-bottom: 65px;
+}
+
+.who-text img {
+  height: 250px;
+  margin: 0 auto;
+  margin-bottom: 25px;
+}
