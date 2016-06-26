@@ -2710,3 +2710,9 @@ span.stButton_gradient,
 .orange {
   background-color: #faa441;
 }
+
+#clients {
+  background-image: url(../images/home/circle-bg.png);
+  background-color: #fbfafa;
+  background-position: center;
+}
