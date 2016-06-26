@@ -2668,12 +2668,45 @@ span.stButton_gradient,
 }
 
 #service {
-  background-color: #3fbfe2;
+  background-color: #00aeef;
+  color: white;
+}
+
+#service h2 {
   color: white;
 }
 
 .single-involved {
   height: 125px;
-  margin-bottom: 15px;
-  background-color: red;
+  margin-bottom: 30px;
+  padding: 30px;
+}
+
+.panel {
+  color: white;
+  font-weight: bold;
+}
+
+.yellow {
+  background-color: #fdde49;
+}
+
+.light-blue {
+  background-color: #00aeef;
+}
+
+.green {
+  background-color: #6fc60f;
+}
+
+.red {
+  background-color: #ea4829;
+}
+
+.purple {
+  background-color: #2d3d94;
+}
+
+.orange {
+  background-color: #faa441;
 }
